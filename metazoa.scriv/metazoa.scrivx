@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8-26284" Device="Dennis-Murphys-iMac" Modified="2016-11-27 15:22:39 -0500" ModID="30226E15-EC1E-424A-94EE-5B79350920B0">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8-26284" Device="Dennis-Murphys-iMac" Modified="2016-11-28 10:05:27 -0500" ModID="9F2110F4-88A6-4266-99C2-2267578E9071">
     <Binder>
         <BinderItem ID="0" UUID="D000E216-5F54-4011-9AFB-635C46B01542" Type="DraftFolder" Created="2016-11-26 16:41:55 -0500" Modified="2016-11-26 16:41:55 -0500">
             <Title>Draft</Title>
@@ -10,9 +10,10 @@
                 <SelectedSubdocumentIDs>18</SelectedSubdocumentIDs>
             </CorkboardAndOutliner>
             <Children>
-                <BinderItem ID="16" UUID="86EF43F9-2A1D-4264-BE71-D06425805667" Type="Folder" Created="2016-11-27 11:35:13 -0500" Modified="2016-11-27 11:59:27 -0500">
+                <BinderItem ID="16" UUID="86EF43F9-2A1D-4264-BE71-D06425805667" Type="Folder" Created="2016-11-27 11:35:13 -0500" Modified="2016-11-28 10:00:02 -0500">
                     <Title>Introduction</Title>
                     <MetaData>
+                        <LabelID>1</LabelID>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
@@ -32,9 +33,10 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem ID="17" UUID="5BC6F2D4-3332-459F-92BB-3FAAD3AA3E57" Type="Folder" Created="2016-11-27 11:36:05 -0500" Modified="2016-11-27 12:00:11 -0500">
+                <BinderItem ID="17" UUID="5BC6F2D4-3332-459F-92BB-3FAAD3AA3E57" Type="Folder" Created="2016-11-27 11:36:05 -0500" Modified="2016-11-28 10:00:06 -0500">
                     <Title>Groups Within Groups</Title>
                     <MetaData>
+                        <LabelID>1</LabelID>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
@@ -42,9 +44,10 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="18" UUID="D60B2A07-E5D1-4AFB-89AA-EE5FC0935499" Type="Folder" Created="2016-11-27 11:36:28 -0500" Modified="2016-11-27 12:01:28 -0500">
+                <BinderItem ID="18" UUID="D60B2A07-E5D1-4AFB-89AA-EE5FC0935499" Type="Folder" Created="2016-11-27 11:36:28 -0500" Modified="2016-11-28 10:00:09 -0500">
                     <Title>Unsettled at the Base</Title>
                     <MetaData>
+                        <LabelID>1</LabelID>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
@@ -52,9 +55,10 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="23" UUID="7D722834-DC63-44D6-BA05-9DDB1C3500FA" Type="Folder" Created="2016-11-27 11:54:16 -0500" Modified="2016-11-27 11:58:54 -0500">
+                <BinderItem ID="23" UUID="7D722834-DC63-44D6-BA05-9DDB1C3500FA" Type="Folder" Created="2016-11-27 11:54:16 -0500" Modified="2016-11-28 10:00:13 -0500">
                     <Title>Murky Origins</Title>
                     <MetaData>
+                        <LabelID>1</LabelID>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
@@ -328,6 +332,16 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem ID="31" UUID="E6B9275E-AE72-4C68-929D-65A86E49EFA5" Type="Text" Created="2016-11-28 09:10:34 -0500" Modified="2016-11-28 09:11:12 -0500">
+                    <Title></Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
     </Binder>
@@ -363,7 +377,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2016-11-26 16:41:54 -0500" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2016-11-27 13:48:43 -0500"></PreviousSession>
+        <PreviousSession Words="0" Characters="0" Date="2016-11-28 09:10:29 -0500"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
