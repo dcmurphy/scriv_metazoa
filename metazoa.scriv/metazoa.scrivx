@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8-26284" Device="Dennis-Murphys-iMac" Modified="2016-11-27 12:05:45 -0500" ModID="40B2662C-1E45-4ABA-AE48-F2786535989E">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8-26284" Device="Dennis-Murphys-iMac" Modified="2016-11-27 15:22:39 -0500" ModID="30226E15-EC1E-424A-94EE-5B79350920B0">
     <Binder>
         <BinderItem ID="0" UUID="D000E216-5F54-4011-9AFB-635C46B01542" Type="DraftFolder" Created="2016-11-26 16:41:55 -0500" Modified="2016-11-26 16:41:55 -0500">
             <Title>Draft</Title>
@@ -115,9 +115,6 @@
                                     <TextSettings>
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
-                                    <CorkboardAndOutliner>
-                                        <SelectedSubdocumentIDs>13</SelectedSubdocumentIDs>
-                                    </CorkboardAndOutliner>
                                     <Children>
                                         <BinderItem ID="8" UUID="C6DA3276-F61B-45F5-A694-22DB88E436AB" Type="Text" Created="2016-11-26 16:47:10 -0500" Modified="2016-11-26 16:49:46 -0500">
                                             <Title>Piper 2013 Animal Earth</Title>
@@ -139,14 +136,24 @@
                                                 <TextSelection>1534,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
-                                        <BinderItem ID="11" UUID="566FDA0C-A19D-420D-8C57-B6466D7757D6" Type="Text" Created="2016-11-26 16:51:58 -0500" Modified="2016-11-26 16:53:04 -0500">
+                                        <BinderItem ID="11" UUID="566FDA0C-A19D-420D-8C57-B6466D7757D6" Type="Text" Created="2016-11-26 16:51:58 -0500" Modified="2016-11-27 14:18:53 -0500">
                                             <Title>Phyla Species Log10 transform</Title>
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                                 <NotesTextSelection>0,0</NotesTextSelection>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>1309,0</TextSelection>
+                                                <TextSelection>320,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem ID="29" UUID="34B89DAD-1AEE-444D-9173-6DD53598EA95" Type="Text" Created="2016-11-27 14:29:30 -0500" Modified="2016-11-27 14:44:58 -0500">
+                                            <Title>Phyla Log e species richness</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <NotesTextSelection>0,0</NotesTextSelection>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,1085</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                         <BinderItem ID="12" UUID="CA7A6DB8-F62C-4A99-94A5-92564433F942" Type="Text" Created="2016-11-26 16:53:07 -0500" Modified="2016-11-27 11:33:12 -0500">
@@ -177,6 +184,16 @@
                                             </MetaData>
                                             <TextSettings>
                                                 <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem ID="30" UUID="B0F413C4-3E62-42EF-92EC-91726D66D572" Type="Text" Created="2016-11-27 15:20:55 -0500" Modified="2016-11-27 15:22:39 -0500">
+                                            <Title>Phyla species richness sq rt</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <NotesTextSelection>0,0</NotesTextSelection>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>411,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                     </Children>
@@ -346,7 +363,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2016-11-26 16:41:54 -0500" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2016-11-27 10:46:12 -0500"></PreviousSession>
+        <PreviousSession Words="0" Characters="0" Date="2016-11-27 13:48:43 -0500"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
