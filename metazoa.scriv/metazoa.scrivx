@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8-26284" Device="Denniss-MacBook-Pro" Modified="2016-12-22 13:21:58 -0500" ModID="A3BA0268-F601-441D-AC69-3C473DA12EC5">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1-26322" Device="Denniss-MacBook-Pro" Modified="2017-01-10 20:45:01 -0500" ModID="187AEB28-96B9-4052-9907-C046B9B1896C">
     <Binder>
         <BinderItem ID="0" UUID="D000E216-5F54-4011-9AFB-635C46B01542" Type="DraftFolder" Created="2016-11-26 16:41:55 -0500" Modified="2016-11-26 16:41:55 -0500">
             <Title>Draft</Title>
@@ -83,6 +83,33 @@
                     <TextSettings>
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
+                    <Children>
+                        <BinderItem ID="33" UUID="B75A6AAD-3CD1-48ED-A91E-ADA765753AAE" Type="Folder" Created="2017-01-08 15:54:29 -0500" Modified="2017-01-08 15:54:36 -0500">
+                            <Title>General Sources</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <CorkboardAndOutliner>
+                                <SelectedSubdocumentIDs>34</SelectedSubdocumentIDs>
+                            </CorkboardAndOutliner>
+                            <Children>
+                                <BinderItem ID="34" UUID="2E8220B4-E9D4-4B7B-BFBD-966CAEF9DAA8" Type="Text" Created="2017-01-08 15:54:44 -0500" Modified="2017-01-10 20:45:01 -0500">
+                                    <Title>Mayr, Ernst, the growth of biological thoutht</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>3431,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                    </Children>
                 </BinderItem>
                 <BinderItem ID="5" UUID="4DBEF9E3-E318-41DC-8C52-0446CB1B99A9" Type="Folder" Created="2016-11-26 16:42:24 -0500" Modified="2016-11-26 16:47:08 -0500">
                     <Title>Figures</Title>
@@ -93,9 +120,6 @@
                     <TextSettings>
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
-                    <CorkboardAndOutliner>
-                        <SelectedSubdocumentIDs>6</SelectedSubdocumentIDs>
-                    </CorkboardAndOutliner>
                     <Children>
                         <BinderItem ID="6" UUID="8DD3110C-4075-4DFD-8F5E-47200DCE2A5D" Type="Folder" Created="2016-11-26 16:43:55 -0500" Modified="2016-11-26 16:45:30 -0500">
                             <Title>Phyla Intro</Title>
@@ -204,14 +228,14 @@
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem ID="7" UUID="4193336D-D824-4019-82B0-104578A7B544" Type="Text" Created="2016-11-26 16:46:26 -0500" Modified="2016-11-26 16:46:26 -0500">
-                            <Title>Untitled</Title>
+                        <BinderItem ID="7" UUID="4193336D-D824-4019-82B0-104578A7B544" Type="Text" Created="2016-11-26 16:46:26 -0500" Modified="2016-12-28 13:09:53 -0500">
+                            <Title>figure ideas</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>0,0</TextSelection>
+                                <TextSelection>383,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -395,7 +419,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2016-11-26 16:41:54 -0500" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2016-12-22 13:18:49 -0500"></PreviousSession>
+        <PreviousSession Words="0" Characters="0" Date="2017-01-10 20:37:29 -0500"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
