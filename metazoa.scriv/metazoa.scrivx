@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1-26322" Device="Denniss-MacBook-Pro" Modified="2017-02-23 10:59:50 -0500" ModID="3A464180-72B8-4D8A-B7C3-A969CB865BF0">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1-26322" Device="Denniss-MacBook-Pro" Modified="2017-03-08 11:27:28 -0500" ModID="28AD5D09-86BB-4E27-BA94-948244DF1AAA">
     <Binder>
         <BinderItem ID="0" UUID="D000E216-5F54-4011-9AFB-635C46B01542" Type="DraftFolder" Created="2016-11-26 16:41:55 -0500" Modified="2016-11-26 16:41:55 -0500">
             <Title>Draft</Title>
@@ -187,14 +187,14 @@
                                         <TextSelection>2327,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem ID="41" UUID="76B4DCFE-ADBA-4729-81D2-9A837986DE05" Type="Text" Created="2017-01-31 09:25:06 -0500" Modified="2017-01-31 11:05:04 -0500">
+                                <BinderItem ID="41" UUID="76B4DCFE-ADBA-4729-81D2-9A837986DE05" Type="Text" Created="2017-01-31 09:25:06 -0500" Modified="2017-02-28 09:15:28 -0500">
                                     <Title>Gilbert, Baressi: Developmental Biology </Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>3358,0</TextSelection>
+                                        <TextSelection>3527,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -374,6 +374,31 @@
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>453,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem ID="48" UUID="F25B120C-B8D1-4823-93C8-E50DA52688F9" Type="Folder" Created="2017-03-08 11:13:11 -0500" Modified="2017-03-08 11:14:14 -0500">
+                            <Title>Opistokonta</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <CorkboardAndOutliner>
+                                <SelectedSubdocumentIDs>49</SelectedSubdocumentIDs>
+                            </CorkboardAndOutliner>
+                            <Children>
+                                <BinderItem ID="49" UUID="47644414-A6ED-45E8-899E-DD738B522172" Type="Text" Created="2017-03-08 11:14:29 -0500" Modified="2017-03-08 11:27:28 -0500">
+                                    <Title>figure structure</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>145,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -579,7 +604,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2016-11-26 16:41:54 -0500" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="367" Characters="2558" Date="2017-02-23 09:41:26 -0500"></PreviousSession>
+        <PreviousSession Words="0" Characters="0" Date="2017-03-08 11:12:33 -0500"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
