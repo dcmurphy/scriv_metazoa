@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1-26322" Device="Denniss-MacBook-Pro" Modified="2017-03-08 11:27:28 -0500" ModID="28AD5D09-86BB-4E27-BA94-948244DF1AAA">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1-26322" Device="Dennis-Murphys-iMac" Modified="2017-03-11 10:38:15 -0500" ModID="7F34A61F-D9C3-4436-A691-A0E94F42384A">
     <Binder>
         <BinderItem ID="0" UUID="D000E216-5F54-4011-9AFB-635C46B01542" Type="DraftFolder" Created="2016-11-26 16:41:55 -0500" Modified="2016-11-26 16:41:55 -0500">
             <Title>Draft</Title>
@@ -77,8 +77,8 @@
                                 <IndexCardBinderID Position="0.18,0.08" TimeStamp="2017-01-16 09:45:50 -0500">35</IndexCardBinderID>
                                 <IndexCardBinderID Position="1.129245,0.075182" TimeStamp="2017-01-31 09:26:59 -0500">36</IndexCardBinderID>
                                 <IndexCardBinderID Position="0.123333,0.703333" TimeStamp="2017-01-16 09:45:50 -0500">39</IndexCardBinderID>
-                                <IndexCardBinderID Position="2.146667,0.053333" TimeStamp="2017-01-16 09:45:50 -0500">37</IndexCardBinderID>
                                 <IndexCardBinderID Position="1.156667,0.736667" TimeStamp="2017-01-16 09:45:50 -0500">40</IndexCardBinderID>
+                                <IndexCardBinderID Position="2.146667,0.053333" TimeStamp="2017-01-16 09:45:50 -0500">37</IndexCardBinderID>
                             </FreeformCorkboardDocuments>
                         </CorkboardSettings>
                     </CorkboardAndOutliner>
@@ -274,14 +274,14 @@
                                                 <TextSelection>0,1085</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
-                                        <BinderItem ID="12" UUID="CA7A6DB8-F62C-4A99-94A5-92564433F942" Type="Text" Created="2016-11-26 16:53:07 -0500" Modified="2016-11-27 11:33:12 -0500">
+                                        <BinderItem ID="12" UUID="CA7A6DB8-F62C-4A99-94A5-92564433F942" Type="Text" Created="2016-11-26 16:53:07 -0500" Modified="2017-03-11 10:38:15 -0500">
                                             <Title>Phyla body size Biovolume</Title>
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                                 <NotesTextSelection>0,0</NotesTextSelection>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>1552,0</TextSelection>
+                                                <TextSelection>346,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                         <BinderItem ID="13" UUID="4984F831-87D3-426E-9FC8-D09413C94AD6" Type="Text" Created="2016-11-26 16:53:44 -0500" Modified="2016-11-26 16:54:40 -0500">
@@ -604,7 +604,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2016-11-26 16:41:54 -0500" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2017-03-08 11:12:33 -0500"></PreviousSession>
+        <PreviousSession Words="0" Characters="0" Date="2017-03-11 10:16:05 -0500"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
