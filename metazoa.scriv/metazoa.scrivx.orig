@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 <ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1-26322" Device="Denniss-MacBook-Pro" Modified="2017-03-13 09:31:30 -0400" ModID="CD70385D-F32E-4445-BD19-06F618ED0546">
+=======
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1-26322" Device="Dennis-Murphys-iMac" Modified="2017-03-11 10:38:15 -0500" ModID="7F34A61F-D9C3-4436-A691-A0E94F42384A">
+>>>>>>> 0ed5b8f4a455706734717bb250e6620730a3c7d4
     <Binder>
         <BinderItem ID="0" UUID="D000E216-5F54-4011-9AFB-635C46B01542" Type="DraftFolder" Created="2016-11-26 16:41:55 -0500" Modified="2016-11-26 16:41:55 -0500">
             <Title>Draft</Title>
@@ -714,7 +719,11 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2016-11-26 16:41:54 -0500" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+<<<<<<< HEAD
+        <PreviousSession Words="0" Characters="0" Date="2017-03-13 09:18:08 -0400"></PreviousSession>
+=======
         <PreviousSession Words="0" Characters="0" Date="2017-03-11 10:16:05 -0500"></PreviousSession>
+>>>>>>> 0ed5b8f4a455706734717bb250e6620730a3c7d4
     </ProjectTargets>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
