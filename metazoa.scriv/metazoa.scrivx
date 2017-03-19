@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1-26322" Device="Denniss-MacBook-Pro" Modified="2017-03-08 11:27:28 -0500" ModID="28AD5D09-86BB-4E27-BA94-948244DF1AAA">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1-26322" Device="Denniss-MacBook-Pro" Modified="2017-03-13 09:31:30 -0400" ModID="CD70385D-F32E-4445-BD19-06F618ED0546">
     <Binder>
         <BinderItem ID="0" UUID="D000E216-5F54-4011-9AFB-635C46B01542" Type="DraftFolder" Created="2016-11-26 16:41:55 -0500" Modified="2016-11-26 16:41:55 -0500">
             <Title>Draft</Title>
@@ -173,9 +173,6 @@
                             <TextSettings>
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
-                            <CorkboardAndOutliner>
-                                <SelectedSubdocumentIDs>34</SelectedSubdocumentIDs>
-                            </CorkboardAndOutliner>
                             <Children>
                                 <BinderItem ID="34" UUID="2E8220B4-E9D4-4B7B-BFBD-966CAEF9DAA8" Type="Text" Created="2017-01-08 15:54:44 -0500" Modified="2017-02-23 09:51:16 -0500">
                                     <Title>Mayr, Ernst, the growth of biological thought</Title>
@@ -187,7 +184,29 @@
                                         <TextSelection>2327,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem ID="41" UUID="76B4DCFE-ADBA-4729-81D2-9A837986DE05" Type="Text" Created="2017-01-31 09:25:06 -0500" Modified="2017-02-28 09:15:28 -0500">
+                                <BinderItem ID="60" UUID="D38804F0-64B5-43C6-BBA3-D1EAA0097057" Type="Text" Created="2017-03-13 09:31:16 -0400" Modified="2017-03-13 09:31:30 -0400">
+                                    <Title>Cell Types</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem ID="58" UUID="CE43CEC0-BDD1-4F1C-BAEB-5250376F12C3" Type="Folder" Created="2017-03-13 09:24:47 -0400" Modified="2017-03-13 09:24:59 -0400">
+                            <Title>Development</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="41" UUID="76B4DCFE-ADBA-4729-81D2-9A837986DE05" Type="Text" Created="2017-01-31 09:25:06 -0500" Modified="2017-03-13 09:28:12 -0400">
                                     <Title>Gilbert, Baressi: Developmental Biology </Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -195,6 +214,16 @@
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>3527,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="59" UUID="DBAED4F6-0549-42A8-9B9C-CA827A0C3ACB" Type="Text" Created="2017-03-13 09:27:21 -0400" Modified="2017-03-13 09:30:37 -0400">
+                                    <Title>Developmental Toolkit</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>65,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -328,31 +357,6 @@
                                 <TextSelection>383,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="42" UUID="CAB7919D-1378-42B7-B246-CA0ACA393A39" Type="Folder" Created="2017-01-31 10:27:19 -0500" Modified="2017-01-31 10:27:26 -0500">
-                            <Title>Development</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,0</TextSelection>
-                            </TextSettings>
-                            <CorkboardAndOutliner>
-                                <SelectedSubdocumentIDs>44</SelectedSubdocumentIDs>
-                            </CorkboardAndOutliner>
-                            <Children>
-                                <BinderItem ID="44" UUID="76301010-86CD-47DE-A362-F2B3795D6446" Type="Text" Created="2017-01-31 10:35:34 -0500" Modified="2017-01-31 10:45:51 -0500">
-                                    <Title>Von Baer's Laws</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>586,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                            </Children>
-                        </BinderItem>
                         <BinderItem ID="45" UUID="F77D1490-3A24-47B0-BAC3-74EB512744EE" Type="Folder" Created="2017-02-04 16:07:46 -0500" Modified="2017-02-04 16:07:59 -0500">
                             <Title>Nervous System</Title>
                             <MetaData>
@@ -399,6 +403,102 @@
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>145,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem ID="57" UUID="F4F02975-683D-4717-9698-8A50C9CEEC74" Type="Folder" Created="2017-03-13 09:23:42 -0400" Modified="2017-03-13 09:23:48 -0400">
+                            <Title>Development</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="44" UUID="76301010-86CD-47DE-A362-F2B3795D6446" Type="Text" Created="2017-01-31 10:35:34 -0500" Modified="2017-01-31 10:45:51 -0500">
+                                    <Title>Von Baer's Laws</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>586,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="42" UUID="CAB7919D-1378-42B7-B246-CA0ACA393A39" Type="Folder" Created="2017-01-31 10:27:19 -0500" Modified="2017-01-31 10:27:26 -0500">
+                    <Title>Development</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="50" UUID="FFBC7007-CF62-4F00-8D1D-FFEAF4DB722D" Type="Folder" Created="2017-03-13 09:18:54 -0400" Modified="2017-03-13 09:19:10 -0400">
+                            <Title>Developmental Toolkit</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="51" UUID="9F462F1B-4D62-4820-AFAE-2B0A2640E773" Type="Text" Created="2017-03-13 09:19:23 -0400" Modified="2017-03-13 09:19:45 -0400">
+                                    <Title>Phylogenitic pattern</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="52" UUID="0ED54931-D4AE-4724-B54D-38C7691A1F93" Type="Text" Created="2017-03-13 09:19:50 -0400" Modified="2017-03-13 09:19:58 -0400">
+                                    <Title>Wnt</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="53" UUID="FC09B047-0FDD-431C-90FF-BC570A83127C" Type="Text" Created="2017-03-13 09:20:01 -0400" Modified="2017-03-13 09:20:28 -0400">
+                                    <Title>developmental toolkit intro</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="54" UUID="1F6D3A9E-5FA6-415F-A332-5F7EAB0859F8" Type="Text" Created="2017-03-13 09:20:31 -0400" Modified="2017-03-13 09:20:47 -0400">
+                                    <Title>Hedgehog</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="55" UUID="BF37FF79-963C-4BF4-8340-11050B0CBA05" Type="Text" Created="2017-03-13 09:20:54 -0400" Modified="2017-03-13 09:22:21 -0400">
+                                    <Title>FGB</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -569,6 +669,16 @@
                         <TextSelection>41,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem ID="56" UUID="411595E6-1A17-4D4D-8EC4-CCA57BB047EE" Type="Folder" Created="2017-03-13 09:22:51 -0400" Modified="2017-03-13 09:22:58 -0400">
+                    <Title>Development</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
     </Binder>
@@ -604,7 +714,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2016-11-26 16:41:54 -0500" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2017-03-08 11:12:33 -0500"></PreviousSession>
+        <PreviousSession Words="0" Characters="0" Date="2017-03-13 09:18:08 -0400"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
