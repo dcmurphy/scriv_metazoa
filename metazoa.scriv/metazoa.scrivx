@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1-26322" Device="Denniss-MacBook-Pro" Modified="2017-06-05 18:45:41 -0400" ModID="1F15E205-C6EC-4878-ACEF-81ECCAF5F2D8">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1-26322" Device="Denniss-MacBook-Pro" Modified="2017-06-09 10:56:34 -0400" ModID="66964D17-3616-40CF-A101-2D38C6E7C15F">
     <Binder>
         <BinderItem ID="0" UUID="D000E216-5F54-4011-9AFB-635C46B01542" Type="DraftFolder" Created="2016-11-26 16:41:55 -0500" Modified="2016-11-26 16:41:55 -0500">
             <Title>Draft</Title>
@@ -18,17 +18,37 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="3" UUID="9E08106C-AB23-455A-AF15-304DB4EAD692" Type="Text" Created="2016-11-26 16:41:55 -0500" Modified="2017-06-05 18:45:41 -0400">
-                            <Title>Introduction</Title>
+                        <BinderItem ID="3" UUID="9E08106C-AB23-455A-AF15-304DB4EAD692" Type="Text" Created="2016-11-26 16:41:55 -0500" Modified="2017-06-09 10:29:03 -0400">
+                            <Title>Name five animals</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>3970,0</TextSelection>
+                                <TextSelection>5783,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="76" UUID="6C5C493E-F684-4D32-A5F5-B601BE26D591" Type="Folder" Created="2017-06-05 17:40:41 -0400" Modified="2017-06-05 17:40:48 -0400">
+                        <BinderItem ID="83" UUID="2E7BE264-B43F-4862-A749-E72483291202" Type="Text" Created="2017-06-08 21:40:59 -0400" Modified="2017-06-09 10:56:34 -0400">
+                            <Title>size</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>763,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="84" UUID="F9C193E9-599E-43C9-9EFC-09CF14B4ADD1" Type="Text" Created="2017-06-08 21:41:10 -0400" Modified="2017-06-08 21:41:15 -0400">
+                            <Title>habitat</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="80" UUID="673BAD99-EF2F-43D4-9E26-72E2C5E16709" Type="Folder" Created="2017-06-08 21:36:35 -0400" Modified="2017-06-08 21:36:40 -0400">
                             <Title>tangents</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -38,14 +58,34 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem ID="77" UUID="C4BAECC2-0173-43DE-9521-F5CC753F58A9" Type="Text" Created="2017-06-05 17:40:55 -0400" Modified="2017-06-05 17:43:13 -0400">
-                                    <Title>species richness</Title>
+                                <BinderItem ID="86" UUID="772D7EC7-B6D4-4151-B518-BC658F46C0C4" Type="Text" Created="2017-06-08 22:06:41 -0400" Modified="2017-06-08 22:06:55 -0400">
+                                    <Title>what happened with chordates?</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>775,0</TextSelection>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="81" UUID="ECEF51C0-A323-4389-A85D-B7C82F3FC620" Type="Text" Created="2017-06-08 21:36:45 -0400" Modified="2017-06-08 22:06:33 -0400">
+                                    <Title>playing with numbers</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="85" UUID="12C479F8-151F-4746-9E54-4085584CB774" Type="Text" Created="2017-06-08 21:49:38 -0400" Modified="2017-06-08 22:06:19 -0400">
+                                    <Title>an imperfect measure</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>732,197</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -96,8 +136,8 @@
                                 <IndexCardBinderID Position="0.18,0.08" TimeStamp="2017-04-17 08:07:34 -0400">35</IndexCardBinderID>
                                 <IndexCardBinderID Position="1.129245,0.075182" TimeStamp="2017-04-17 08:07:33 -0400">36</IndexCardBinderID>
                                 <IndexCardBinderID Position="0.123333,0.703333" TimeStamp="2017-01-16 09:45:50 -0500">39</IndexCardBinderID>
-                                <IndexCardBinderID Position="1.156667,0.736667" TimeStamp="2017-01-16 09:45:50 -0500">40</IndexCardBinderID>
                                 <IndexCardBinderID Position="2.146667,0.053333" TimeStamp="2017-01-16 09:45:50 -0500">37</IndexCardBinderID>
+                                <IndexCardBinderID Position="1.156667,0.736667" TimeStamp="2017-01-16 09:45:50 -0500">40</IndexCardBinderID>
                             </FreeformCorkboardDocuments>
                         </CorkboardSettings>
                     </CorkboardAndOutliner>
@@ -418,7 +458,7 @@
                                                 <NotesTextSelection>0,0</NotesTextSelection>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>2636,0</TextSelection>
+                                                <TextSelection>2376,15</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                         <BinderItem ID="10" UUID="FA800CA4-E383-4E57-8217-7EE84927F069" Type="Text" Created="2016-11-26 16:49:53 -0500" Modified="2016-11-26 16:51:45 -0500">
@@ -874,6 +914,51 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem ID="77" UUID="C4BAECC2-0173-43DE-9521-F5CC753F58A9" Type="Text" Created="2017-06-05 17:40:55 -0400" Modified="2017-06-05 17:43:13 -0400">
+                    <Title>species richness</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,774</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="76" UUID="6C5C493E-F684-4D32-A5F5-B601BE26D591" Type="Folder" Created="2017-06-05 17:40:41 -0400" Modified="2017-06-05 17:40:48 -0400">
+                    <Title>tangents</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <SelectedSubdocumentIDs>79</SelectedSubdocumentIDs>
+                    </CorkboardAndOutliner>
+                    <Children>
+                        <BinderItem ID="79" UUID="B102AB5A-15D9-4E50-A123-216CFD81C4B8" Type="Text" Created="2017-06-08 21:35:36 -0400" Modified="2017-06-08 21:35:47 -0400">
+                            <Title>Data Tra</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="82" UUID="5067420C-CAD1-4652-9B33-7562BD5482B4" Type="Text" Created="2017-06-08 21:39:48 -0400" Modified="2017-06-08 21:44:05 -0400">
+                    <Title>species rich</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
     </Binder>
@@ -909,7 +994,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2016-11-26 16:41:54 -0500" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="51" Characters="319" Date="2017-06-05 17:32:14 -0400"></PreviousSession>
+        <PreviousSession Words="0" Characters="0" Date="2017-06-10 10:40:31 -0400"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
