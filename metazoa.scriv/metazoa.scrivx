@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1-26322" Device="Denniss-MacBook-Pro" Modified="2017-06-09 10:56:34 -0400" ModID="66964D17-3616-40CF-A101-2D38C6E7C15F">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1-26322" Device="Denniss-MacBook-Pro" Modified="2017-06-23 14:59:07 -0400" ModID="EA163CCA-FDEB-4F30-91CD-8B11E7DC9422">
     <Binder>
         <BinderItem ID="0" UUID="D000E216-5F54-4011-9AFB-635C46B01542" Type="DraftFolder" Created="2016-11-26 16:41:55 -0500" Modified="2016-11-26 16:41:55 -0500">
             <Title>Draft</Title>
@@ -18,24 +18,24 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="3" UUID="9E08106C-AB23-455A-AF15-304DB4EAD692" Type="Text" Created="2016-11-26 16:41:55 -0500" Modified="2017-06-09 10:29:03 -0400">
+                        <BinderItem ID="3" UUID="9E08106C-AB23-455A-AF15-304DB4EAD692" Type="Text" Created="2016-11-26 16:41:55 -0500" Modified="2017-06-22 15:05:54 -0400">
                             <Title>Name five animals</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>5783,0</TextSelection>
+                                <TextSelection>4918,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="83" UUID="2E7BE264-B43F-4862-A749-E72483291202" Type="Text" Created="2017-06-08 21:40:59 -0400" Modified="2017-06-09 10:56:34 -0400">
+                        <BinderItem ID="83" UUID="2E7BE264-B43F-4862-A749-E72483291202" Type="Text" Created="2017-06-08 21:40:59 -0400" Modified="2017-06-23 14:59:07 -0400">
                             <Title>size</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>763,0</TextSelection>
+                                <TextSelection>4315,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem ID="84" UUID="F9C193E9-599E-43C9-9EFC-09CF14B4ADD1" Type="Text" Created="2017-06-08 21:41:10 -0400" Modified="2017-06-08 21:41:15 -0400">
@@ -136,8 +136,8 @@
                                 <IndexCardBinderID Position="0.18,0.08" TimeStamp="2017-04-17 08:07:34 -0400">35</IndexCardBinderID>
                                 <IndexCardBinderID Position="1.129245,0.075182" TimeStamp="2017-04-17 08:07:33 -0400">36</IndexCardBinderID>
                                 <IndexCardBinderID Position="0.123333,0.703333" TimeStamp="2017-01-16 09:45:50 -0500">39</IndexCardBinderID>
-                                <IndexCardBinderID Position="2.146667,0.053333" TimeStamp="2017-01-16 09:45:50 -0500">37</IndexCardBinderID>
                                 <IndexCardBinderID Position="1.156667,0.736667" TimeStamp="2017-01-16 09:45:50 -0500">40</IndexCardBinderID>
+                                <IndexCardBinderID Position="2.146667,0.053333" TimeStamp="2017-01-16 09:45:50 -0500">37</IndexCardBinderID>
                             </FreeformCorkboardDocuments>
                         </CorkboardSettings>
                     </CorkboardAndOutliner>
@@ -204,6 +204,9 @@
                     <TextSettings>
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
+                    <CorkboardAndOutliner>
+                        <SelectedSubdocumentIDs>69</SelectedSubdocumentIDs>
+                    </CorkboardAndOutliner>
                     <Children>
                         <BinderItem ID="64" UUID="973BE12A-D569-4FA4-AB2C-282778A7514F" Type="Text" Created="2017-04-17 08:09:51 -0400" Modified="2017-04-17 08:13:30 -0400">
                             <Title>Fossil record</Title>
@@ -245,7 +248,7 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="68" UUID="2B3A2E4F-D879-4E4E-BAE4-E97797C12624" Type="Text" Created="2017-04-17 08:57:13 -0400" Modified="2017-04-17 08:57:40 -0400">
+                        <BinderItem ID="68" UUID="2B3A2E4F-D879-4E4E-BAE4-E97797C12624" Type="Text" Created="2017-04-17 08:57:13 -0400" Modified="2017-06-11 08:35:29 -0400">
                             <Title>Edicarian</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -255,8 +258,8 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="69" UUID="E0191184-9978-4FAC-BCB2-A09344810FB1" Type="Text" Created="2017-04-17 08:59:00 -0400" Modified="2017-04-17 09:03:17 -0400">
-                            <Title>something</Title>
+                        <BinderItem ID="69" UUID="E0191184-9978-4FAC-BCB2-A09344810FB1" Type="Text" Created="2017-04-17 08:59:00 -0400" Modified="2017-06-11 08:36:08 -0400">
+                            <Title>Cambrian again</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
@@ -491,14 +494,14 @@
                                                 <TextSelection>0,1085</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
-                                        <BinderItem ID="12" UUID="CA7A6DB8-F62C-4A99-94A5-92564433F942" Type="Text" Created="2016-11-26 16:53:07 -0500" Modified="2017-03-11 10:38:15 -0500">
+                                        <BinderItem ID="12" UUID="CA7A6DB8-F62C-4A99-94A5-92564433F942" Type="Text" Created="2016-11-26 16:53:07 -0500" Modified="2017-06-22 20:25:52 -0400">
                                             <Title>Phyla body size Biovolume</Title>
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                                 <NotesTextSelection>0,0</NotesTextSelection>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>346,0</TextSelection>
+                                                <TextSelection>1644,48</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                         <BinderItem ID="13" UUID="4984F831-87D3-426E-9FC8-D09413C94AD6" Type="Text" Created="2016-11-26 16:53:44 -0500" Modified="2016-11-26 16:54:40 -0500">
@@ -702,9 +705,6 @@
                     <TextSettings>
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
-                    <CorkboardAndOutliner>
-                        <SelectedSubdocumentIDs>32</SelectedSubdocumentIDs>
-                    </CorkboardAndOutliner>
                     <Children>
                         <BinderItem ID="32" UUID="692236F6-917C-4AA4-86A5-07C1EA5F3776" Type="Text" Created="2016-12-22 13:21:22 -0500" Modified="2016-12-22 13:21:58 -0500">
                             <Title>outline 2016-12</Title>
@@ -713,7 +713,17 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>611,1950</TextSelection>
+                                <TextSelection>0,8191</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="87" UUID="C7621839-E33D-4049-89B1-21D8C22AC194" Type="Text" Created="2017-06-11 09:06:38 -0400" Modified="2017-06-12 19:21:02 -0400">
+                            <Title>outline 2017-06</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>768,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -994,7 +1004,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2016-11-26 16:41:54 -0500" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2017-06-10 10:40:31 -0400"></PreviousSession>
+        <PreviousSession Words="-10" Characters="-49" Date="2017-06-23 14:58:43 -0400"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
