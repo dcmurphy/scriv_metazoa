@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1-26322" Device="Denniss-MacBook-Pro" Modified="2017-07-30 12:08:26 -0400" ModID="C78BE70E-37C1-4454-B642-440C7B78D09F">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1-26322" Device="Denniss-MacBook-Pro" Modified="2017-08-03 12:15:27 -0400" ModID="045250C7-1BCD-43AC-948F-43EE9BCD1041">
     <Binder>
         <BinderItem ID="0" UUID="D000E216-5F54-4011-9AFB-635C46B01542" Type="DraftFolder" Created="2016-11-26 16:41:55 -0500" Modified="2016-11-26 16:41:55 -0500">
             <Title>Draft</Title>
@@ -213,9 +213,9 @@
                                 <IndexCardBinderID Position="0.18,0.08" TimeStamp="2017-04-17 08:07:34 -0400">35</IndexCardBinderID>
                                 <IndexCardBinderID Position="1.129245,0.075182" TimeStamp="2017-07-30 11:01:00 -0400">36</IndexCardBinderID>
                                 <IndexCardBinderID Position="0.123333,0.703333" TimeStamp="2017-01-16 09:45:50 -0500">39</IndexCardBinderID>
-                                <IndexCardBinderID Position="2.146667,0.053333" TimeStamp="2017-01-16 09:45:50 -0500">37</IndexCardBinderID>
-                                <IndexCardBinderID Position="2.153333,0.726667" TimeStamp="2017-07-30 11:01:02 -0400">97</IndexCardBinderID>
                                 <IndexCardBinderID Position="1.156667,0.736667" TimeStamp="2017-01-16 09:45:50 -0500">40</IndexCardBinderID>
+                                <IndexCardBinderID Position="2.153333,0.726667" TimeStamp="2017-07-30 11:01:02 -0400">97</IndexCardBinderID>
+                                <IndexCardBinderID Position="2.146667,0.053333" TimeStamp="2017-01-16 09:45:50 -0500">37</IndexCardBinderID>
                             </FreeformCorkboardDocuments>
                         </CorkboardSettings>
                     </CorkboardAndOutliner>
@@ -240,14 +240,14 @@
                                 <TextSelection>685,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="37" UUID="F03821A6-23F6-46DB-BB04-56851A8FD0D5" Type="Text" Created="2017-01-14 12:18:16 -0500" Modified="2017-07-30 12:08:26 -0400">
-                            <Title>Five Basal Groups</Title>
+                        <BinderItem ID="37" UUID="F03821A6-23F6-46DB-BB04-56851A8FD0D5" Type="Text" Created="2017-01-14 12:18:16 -0500" Modified="2017-08-03 12:15:27 -0400">
+                            <Title>five basal groups</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1292,0</TextSelection>
+                                <TextSelection>1485,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem ID="39" UUID="7591255B-FC88-4094-B6DA-793DFB42EB8A" Type="Text" Created="2017-01-14 12:26:05 -0500" Modified="2017-07-30 10:54:08 -0400">
@@ -257,7 +257,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>563,0</TextSelection>
+                                <TextSelection>0,563</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem ID="40" UUID="23AB938A-CE29-4514-B3BC-0928DD40FE78" Type="Text" Created="2017-01-14 12:28:34 -0500" Modified="2017-01-14 12:30:07 -0500">
@@ -1102,7 +1102,10 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2016-11-26 16:41:54 -0500" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="85" Characters="450" Date="2017-07-30 10:51:28 -0400"></PreviousSession>
+        <PreviousSession Words="338" Characters="2205" Date="2017-08-03 08:37:41 -0400"></PreviousSession>
     </ProjectTargets>
+    <AutoCompleteList>
+        <Completion Scope="-1">and</Completion>
+    </AutoCompleteList>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
