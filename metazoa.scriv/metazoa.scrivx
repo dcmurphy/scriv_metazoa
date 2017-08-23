@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1-26322" Device="Denniss-MacBook-Pro" Modified="2017-08-11 17:01:25 -0400" ModID="448FE0AD-BCBA-4934-AA01-591244C6F763">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1-26322" Device="Denniss-MacBook-Pro" Modified="2017-08-23 11:22:18 -0400" ModID="3B3C9161-5935-4A6E-939E-2E900DEC6F9D">
     <Binder>
         <BinderItem ID="0" UUID="D000E216-5F54-4011-9AFB-635C46B01542" Type="DraftFolder" Created="2016-11-26 16:41:55 -0500" Modified="2016-11-26 16:41:55 -0500">
             <Title>Draft</Title>
@@ -206,7 +206,7 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <CorkboardAndOutliner>
-                        <SelectedSubdocumentIDs>106</SelectedSubdocumentIDs>
+                        <SelectedSubdocumentIDs></SelectedSubdocumentIDs>
                         <CorkboardSettings>
                             <FreeformMode>No</FreeformMode>
                             <FreeformCorkboardDocuments>
@@ -219,24 +219,34 @@
                         </CorkboardSettings>
                     </CorkboardAndOutliner>
                     <Children>
-                        <BinderItem ID="37" UUID="F03821A6-23F6-46DB-BB04-56851A8FD0D5" Type="Text" Created="2017-01-14 12:18:16 -0500" Modified="2017-08-09 10:29:18 -0400">
+                        <BinderItem ID="37" UUID="F03821A6-23F6-46DB-BB04-56851A8FD0D5" Type="Text" Created="2017-01-14 12:18:16 -0500" Modified="2017-08-22 16:29:59 -0400">
                             <Title>Five Basal Groups</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1152,0</TextSelection>
+                                <TextSelection>1940,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="39" UUID="7591255B-FC88-4094-B6DA-793DFB42EB8A" Type="Text" Created="2017-01-14 12:26:05 -0500" Modified="2017-08-11 17:01:24 -0400">
-                            <Title>Sponges</Title>
+                        <BinderItem ID="39" UUID="7591255B-FC88-4094-B6DA-793DFB42EB8A" Type="Text" Created="2017-01-14 12:26:05 -0500" Modified="2017-08-22 16:43:49 -0400">
+                            <Title>Paraphyletic Sponges?</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>2191,0</TextSelection>
+                                <TextSelection>2255,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="112" UUID="EFD71853-6FB7-4DF4-AE62-79E1179EC556" Type="Text" Created="2017-08-22 16:41:00 -0400" Modified="2017-08-22 16:46:30 -0400">
+                            <Title>More about Sponges</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>110,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem ID="104" UUID="D5706495-8357-4CED-8D8B-B242A0CB30F4" Type="Text" Created="2017-08-09 09:52:59 -0400" Modified="2017-08-09 10:21:53 -0400">
@@ -269,6 +279,26 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
+                        <BinderItem ID="107" UUID="1B812A20-71B8-4A63-BF1A-BFF0BFB1B9ED" Type="Text" Created="2017-08-13 09:41:15 -0400" Modified="2017-08-13 09:44:47 -0400">
+                            <Title>Bilateria</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>4,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="108" UUID="AD78A96C-9E28-4A72-9CF5-B94A4FD3D855" Type="Text" Created="2017-08-13 09:42:13 -0400" Modified="2017-08-13 09:42:32 -0400">
+                            <Title>Cnideria</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
                         <BinderItem ID="35" UUID="FE52D76E-2CF7-44A2-B411-24EC5D9D007A" Type="Text" Created="2017-01-14 12:12:39 -0500" Modified="2017-04-17 08:08:34 -0400">
                             <Title>outline for this section</Title>
                             <MetaData>
@@ -280,6 +310,16 @@
                             </TextSettings>
                         </BinderItem>
                     </Children>
+                </BinderItem>
+                <BinderItem ID="113" UUID="907818ED-7849-485E-AF00-C44F64888968" Type="Folder" Created="2017-08-23 10:55:42 -0400" Modified="2017-08-23 11:00:02 -0400">
+                    <Title>Well Suported Crowns</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
                 </BinderItem>
                 <BinderItem ID="23" UUID="7D722834-DC63-44D6-BA05-9DDB1C3500FA" Type="Folder" Created="2016-11-27 11:54:16 -0500" Modified="2016-11-28 10:00:13 -0500">
                     <Title>Murky Origins</Title>
@@ -357,7 +397,7 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem ID="70" UUID="7E199FF1-C594-46DF-868C-59FA53D9CBDF" Type="Folder" Created="2017-04-17 09:26:55 -0400" Modified="2017-04-17 09:27:08 -0400">
+                <BinderItem ID="70" UUID="7E199FF1-C594-46DF-868C-59FA53D9CBDF" Type="Folder" Created="2017-04-17 09:26:55 -0400" Modified="2017-08-23 11:22:18 -0400">
                     <Title>What is an animal anyway?</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -473,6 +513,16 @@
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="111" UUID="7BDAE026-4081-4D83-9D9D-D09A17DEAB1E" Type="Text" Created="2017-08-17 15:53:11 -0400" Modified="2017-08-17 16:33:53 -0400">
+                                    <Title>Sponges</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>1695,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -830,6 +880,26 @@
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
+                        </BinderItem>
+                        <BinderItem ID="109" UUID="8F6A6F95-A39F-4E65-8C3D-68F1D5160127" Type="Text" Created="2017-08-14 09:02:59 -0400" Modified="2017-08-14 09:04:27 -0400">
+                            <Title>dont loose that thought</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>188,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="110" UUID="FBE3DB5B-3F24-4216-8582-3CC2CC3B4FBB" Type="Text" Created="2017-08-15 11:55:56 -0400" Modified="2017-08-15 14:42:37 -0400">
+                            <Title>Precambrian notes</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1714,8</TextSelection>
+                            </TextSettings>
                         </BinderItem>
                     </Children>
                 </BinderItem>
@@ -1204,7 +1274,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2016-11-26 16:41:54 -0500" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2017-08-12 11:33:42 -0400"></PreviousSession>
+        <PreviousSession Words="0" Characters="0" Date="2017-08-23 10:55:22 -0400"></PreviousSession>
     </ProjectTargets>
     <AutoCompleteList>
         <Completion Scope="-1">and</Completion>
