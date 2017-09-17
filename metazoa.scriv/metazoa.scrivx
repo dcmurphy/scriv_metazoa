@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1-26322" Device="Denniss-MacBook-Pro" Modified="2017-08-23 11:22:18 -0400" ModID="3B3C9161-5935-4A6E-939E-2E900DEC6F9D">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1-26322" Device="Denniss-MacBook-Pro" Modified="2017-09-06 20:10:45 -0400" ModID="AE8A058C-B60D-4459-B83E-7EBAD97B62B8">
     <Binder>
         <BinderItem ID="0" UUID="D000E216-5F54-4011-9AFB-635C46B01542" Type="DraftFolder" Created="2016-11-26 16:41:55 -0500" Modified="2016-11-26 16:41:55 -0500">
             <Title>Draft</Title>
@@ -219,24 +219,24 @@
                         </CorkboardSettings>
                     </CorkboardAndOutliner>
                     <Children>
-                        <BinderItem ID="37" UUID="F03821A6-23F6-46DB-BB04-56851A8FD0D5" Type="Text" Created="2017-01-14 12:18:16 -0500" Modified="2017-08-22 16:29:59 -0400">
+                        <BinderItem ID="37" UUID="F03821A6-23F6-46DB-BB04-56851A8FD0D5" Type="Text" Created="2017-01-14 12:18:16 -0500" Modified="2017-09-02 18:14:04 -0400">
                             <Title>Five Basal Groups</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1940,0</TextSelection>
+                                <TextSelection>1705,12</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="39" UUID="7591255B-FC88-4094-B6DA-793DFB42EB8A" Type="Text" Created="2017-01-14 12:26:05 -0500" Modified="2017-08-22 16:43:49 -0400">
+                        <BinderItem ID="39" UUID="7591255B-FC88-4094-B6DA-793DFB42EB8A" Type="Text" Created="2017-01-14 12:26:05 -0500" Modified="2017-09-05 23:26:42 -0400">
                             <Title>Paraphyletic Sponges?</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>2255,0</TextSelection>
+                                <TextSelection>4730,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem ID="112" UUID="EFD71853-6FB7-4DF4-AE62-79E1179EC556" Type="Text" Created="2017-08-22 16:41:00 -0400" Modified="2017-08-22 16:46:30 -0400">
@@ -515,14 +515,14 @@
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem ID="111" UUID="7BDAE026-4081-4D83-9D9D-D09A17DEAB1E" Type="Text" Created="2017-08-17 15:53:11 -0400" Modified="2017-08-17 16:33:53 -0400">
+                                <BinderItem ID="111" UUID="7BDAE026-4081-4D83-9D9D-D09A17DEAB1E" Type="Text" Created="2017-08-17 15:53:11 -0400" Modified="2017-09-06 20:10:45 -0400">
                                     <Title>Sponges</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>1695,0</TextSelection>
+                                        <TextSelection>3239,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -555,6 +555,31 @@
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>65,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem ID="114" UUID="60B1CFAA-EF36-4758-B083-EBC5903081A3" Type="Folder" Created="2017-08-24 13:13:44 -0400" Modified="2017-08-24 13:13:53 -0400">
+                            <Title>Paleontology</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <CorkboardAndOutliner>
+                                <SelectedSubdocumentIDs>115</SelectedSubdocumentIDs>
+                            </CorkboardAndOutliner>
+                            <Children>
+                                <BinderItem ID="115" UUID="98F4E172-55DE-4210-8239-11CE1FD0B5FB" Type="Text" Created="2017-08-24 13:14:00 -0400" Modified="2017-08-24 13:47:44 -0400">
+                                    <Title>Keith Miller</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>1865,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -1248,6 +1273,7 @@
         </Collection>
         <Collection Type="RecentSearch" ID="650751F3-8922-434D-A634-EE911BBA8F8B" Color="0.922 0.91 0.98">
             <Title>Search Results</Title>
+            <SearchSettings Operator="Exact" Type="All" CaseSensitive="No">proto</SearchSettings>
         </Collection>
     </Collections>
     <LabelSettings>
@@ -1274,7 +1300,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2016-11-26 16:41:54 -0500" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2017-08-23 10:55:22 -0400"></PreviousSession>
+        <PreviousSession Words="0" Characters="0" Date="2017-09-06 08:28:37 -0400"></PreviousSession>
     </ProjectTargets>
     <AutoCompleteList>
         <Completion Scope="-1">and</Completion>
