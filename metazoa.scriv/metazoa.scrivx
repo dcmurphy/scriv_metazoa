@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1-26322" Device="Denniss-MacBook-Pro" Modified="2017-09-06 20:10:45 -0400" ModID="AE8A058C-B60D-4459-B83E-7EBAD97B62B8">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1-26322" Device="Denniss-MacBook-Pro" Modified="2017-12-15 15:23:47 -0500" ModID="FA5E7959-090E-45D4-B5E9-0FA7781AF93A">
     <Binder>
         <BinderItem ID="0" UUID="D000E216-5F54-4011-9AFB-635C46B01542" Type="DraftFolder" Created="2016-11-26 16:41:55 -0500" Modified="2016-11-26 16:41:55 -0500">
             <Title>Draft</Title>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
+            <CorkboardAndOutliner>
+                <SelectedSubdocumentIDs>126</SelectedSubdocumentIDs>
+            </CorkboardAndOutliner>
             <Children>
                 <BinderItem ID="16" UUID="86EF43F9-2A1D-4264-BE71-D06425805667" Type="Folder" Created="2016-11-27 11:35:13 -0500" Modified="2016-11-28 10:00:02 -0500">
                     <Title>Introduction</Title>
@@ -17,35 +20,38 @@
                     <TextSettings>
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
+                    <CorkboardAndOutliner>
+                        <SelectedSubdocumentIDs>84</SelectedSubdocumentIDs>
+                    </CorkboardAndOutliner>
                     <Children>
-                        <BinderItem ID="3" UUID="9E08106C-AB23-455A-AF15-304DB4EAD692" Type="Text" Created="2016-11-26 16:41:55 -0500" Modified="2017-07-21 09:58:23 -0400">
+                        <BinderItem ID="3" UUID="9E08106C-AB23-455A-AF15-304DB4EAD692" Type="Text" Created="2016-11-26 16:41:55 -0500" Modified="2017-12-15 09:07:51 -0500">
                             <Title>Name five animals</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>4770,0</TextSelection>
+                                <TextSelection>1785,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="83" UUID="2E7BE264-B43F-4862-A749-E72483291202" Type="Text" Created="2017-06-08 21:40:59 -0400" Modified="2017-07-21 10:11:06 -0400">
+                        <BinderItem ID="83" UUID="2E7BE264-B43F-4862-A749-E72483291202" Type="Text" Created="2017-06-08 21:40:59 -0400" Modified="2017-12-15 09:09:24 -0500">
                             <Title>Not just numbers</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>6091,0</TextSelection>
+                                <TextSelection>3419,10</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="84" UUID="F9C193E9-599E-43C9-9EFC-09CF14B4ADD1" Type="Text" Created="2017-06-08 21:41:10 -0400" Modified="2017-07-13 08:58:25 -0400">
+                        <BinderItem ID="84" UUID="F9C193E9-599E-43C9-9EFC-09CF14B4ADD1" Type="Text" Created="2017-06-08 21:41:10 -0400" Modified="2017-12-15 09:12:13 -0500">
                             <Title>Where are they?</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>2584,0</TextSelection>
+                                <TextSelection>3390,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem ID="80" UUID="673BAD99-EF2F-43D4-9E26-72E2C5E16709" Type="Folder" Created="2017-06-08 21:36:35 -0400" Modified="2017-06-08 21:36:40 -0400">
@@ -113,34 +119,34 @@
                                 <TextSelection>191,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="89" UUID="1384E97C-0729-4870-9962-70B7A594D99F" Type="Text" Created="2017-07-13 09:00:22 -0400" Modified="2017-07-13 09:09:02 -0400">
+                        <BinderItem ID="89" UUID="1384E97C-0729-4870-9962-70B7A594D99F" Type="Text" Created="2017-07-13 09:00:22 -0400" Modified="2017-12-14 23:05:16 -0500">
                             <Title>Making sense of the diversity</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>0,0</TextSelection>
+                                <TextSelection>1008,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="88" UUID="49A6FDE0-247C-41A7-A8F6-97A083A1024C" Type="Text" Created="2017-07-13 08:59:59 -0400" Modified="2017-07-13 09:00:17 -0400">
+                        <BinderItem ID="88" UUID="49A6FDE0-247C-41A7-A8F6-97A083A1024C" Type="Text" Created="2017-07-13 08:59:59 -0400" Modified="2017-12-15 15:22:51 -0500">
                             <Title>Linneaus</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>0,0</TextSelection>
+                                <TextSelection>6355,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="95" UUID="B1542C57-9246-4F46-B5ED-EA03B73D7AE4" Type="Text" Created="2017-07-13 09:05:26 -0400" Modified="2017-07-13 09:07:48 -0400">
+                        <BinderItem ID="95" UUID="B1542C57-9246-4F46-B5ED-EA03B73D7AE4" Type="Text" Created="2017-07-13 09:05:26 -0400" Modified="2017-12-15 15:23:47 -0500">
                             <Title>Comparative Morphology</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>0,0</TextSelection>
+                                <TextSelection>85,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem ID="90" UUID="2D321BFA-7D8D-47E6-AC3E-6261757943C1" Type="Text" Created="2017-07-13 09:01:03 -0400" Modified="2017-07-13 09:08:43 -0400">
@@ -219,24 +225,24 @@
                         </CorkboardSettings>
                     </CorkboardAndOutliner>
                     <Children>
-                        <BinderItem ID="37" UUID="F03821A6-23F6-46DB-BB04-56851A8FD0D5" Type="Text" Created="2017-01-14 12:18:16 -0500" Modified="2017-09-02 18:14:04 -0400">
+                        <BinderItem ID="37" UUID="F03821A6-23F6-46DB-BB04-56851A8FD0D5" Type="Text" Created="2017-01-14 12:18:16 -0500" Modified="2017-11-20 08:55:55 -0500">
                             <Title>Five Basal Groups</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1705,12</TextSelection>
+                                <TextSelection>2413,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="39" UUID="7591255B-FC88-4094-B6DA-793DFB42EB8A" Type="Text" Created="2017-01-14 12:26:05 -0500" Modified="2017-09-05 23:26:42 -0400">
+                        <BinderItem ID="39" UUID="7591255B-FC88-4094-B6DA-793DFB42EB8A" Type="Text" Created="2017-01-14 12:26:05 -0500" Modified="2017-11-20 09:01:58 -0500">
                             <Title>Paraphyletic Sponges?</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>4730,0</TextSelection>
+                                <TextSelection>2933,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem ID="112" UUID="EFD71853-6FB7-4DF4-AE62-79E1179EC556" Type="Text" Created="2017-08-22 16:41:00 -0400" Modified="2017-08-22 16:46:30 -0400">
@@ -406,11 +412,8 @@
                     <TextSettings>
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
-                    <CorkboardAndOutliner>
-                        <SelectedSubdocumentIDs>72</SelectedSubdocumentIDs>
-                    </CorkboardAndOutliner>
                     <Children>
-                        <BinderItem ID="72" UUID="341A6D3E-CE9F-4354-8A73-2A157999313F" Type="Text" Created="2017-04-17 09:51:21 -0400" Modified="2017-04-17 09:51:30 -0400">
+                        <BinderItem ID="72" UUID="341A6D3E-CE9F-4354-8A73-2A157999313F" Type="Text" Created="2017-04-17 09:51:21 -0400" Modified="2017-10-01 10:01:48 -0400">
                             <Title>Intro question</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -420,8 +423,23 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="73" UUID="A74597C8-FAAD-4634-BB83-937531844A82" Type="Folder" Created="2017-04-17 09:52:02 -0400" Modified="2017-04-17 09:52:21 -0400">
-                            <Title>Multicellularity</Title>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="73" UUID="A74597C8-FAAD-4634-BB83-937531844A82" Type="Folder" Created="2017-04-17 09:52:02 -0400" Modified="2017-10-01 10:06:09 -0400">
+                    <Title>Multicellularity</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <SelectedSubdocumentIDs>118</SelectedSubdocumentIDs>
+                    </CorkboardAndOutliner>
+                    <Children>
+                        <BinderItem ID="71" UUID="357014BB-B4E1-423E-9276-1305C95C49D1" Type="Text" Created="2017-04-17 09:51:11 -0400" Modified="2017-10-01 09:56:42 -0400">
+                            <Title>multiple origins</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
@@ -429,43 +447,153 @@
                             <TextSettings>
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
-                            <CorkboardAndOutliner>
-                                <SelectedSubdocumentIDs>75</SelectedSubdocumentIDs>
-                            </CorkboardAndOutliner>
-                            <Children>
-                                <BinderItem ID="71" UUID="357014BB-B4E1-423E-9276-1305C95C49D1" Type="Text" Created="2017-04-17 09:51:11 -0400" Modified="2017-08-08 10:03:58 -0400">
-                                    <Title>multiple origins</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem ID="74" UUID="4E0F050A-378A-4C3F-8E75-422A1EF6A643" Type="Text" Created="2017-04-17 09:53:14 -0400" Modified="2017-04-23 20:26:28 -0400">
-                                    <Title>multiple grades</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem ID="75" UUID="120F6935-C095-4A69-B20F-F6783869E324" Type="Text" Created="2017-04-17 09:54:01 -0400" Modified="2017-08-08 10:05:19 -0400">
-                                    <Title>two main approaches</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                            </Children>
+                        </BinderItem>
+                        <BinderItem ID="74" UUID="4E0F050A-378A-4C3F-8E75-422A1EF6A643" Type="Text" Created="2017-04-17 09:53:14 -0400" Modified="2017-04-23 20:26:28 -0400">
+                            <Title>multiple grades</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="75" UUID="120F6935-C095-4A69-B20F-F6783869E324" Type="Text" Created="2017-04-17 09:54:01 -0400" Modified="2017-08-08 10:05:19 -0400">
+                            <Title>two main approaches</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="116" UUID="C603FC20-9CDA-48AE-AC0E-347D8D8E9B49" Type="Text" Created="2017-10-01 09:53:18 -0400" Modified="2017-10-01 09:57:52 -0400">
+                            <Title>Tradeoffs</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="117" UUID="08BEAF7F-62D5-4677-BD1D-620DD46BAC3A" Type="Text" Created="2017-10-01 09:57:54 -0400" Modified="2017-10-01 09:58:41 -0400">
+                            <Title>Cancer</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="118" UUID="2F6746B3-AF4E-47B2-B450-F6D1C02F07CB" Type="Text" Created="2017-10-01 09:59:02 -0400" Modified="2017-10-01 09:59:49 -0400">
+                            <Title>Organizing cells in multicellular organisms</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
                         </BinderItem>
                     </Children>
+                </BinderItem>
+                <BinderItem ID="119" UUID="A893BF4C-5F7C-4A2D-BD06-9E7A157FAD54" Type="Folder" Created="2017-10-01 10:03:07 -0400" Modified="2017-10-01 10:05:32 -0400">
+                    <Title>Developmental Programs</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <SelectedSubdocumentIDs>127</SelectedSubdocumentIDs>
+                    </CorkboardAndOutliner>
+                    <Children>
+                        <BinderItem ID="121" UUID="13270FF4-4941-4B23-9463-7DA81E07F79D" Type="Text" Created="2017-10-01 10:08:22 -0400" Modified="2017-10-01 10:28:29 -0400">
+                            <Title>Additional introduction</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="123" UUID="7A4BBD07-1FE8-41D6-ABB7-2ECF61292915" Type="Text" Created="2017-10-01 10:16:36 -0400" Modified="2017-10-01 10:35:02 -0400">
+                            <Title>Differentiation and Symmetry Breaking</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="122" UUID="1FE949C7-8A68-4F3B-A148-186F414208D9" Type="Text" Created="2017-10-01 10:10:09 -0400" Modified="2017-10-01 10:23:44 -0400">
+                            <Title>Developmental tool kit</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="124" UUID="2111AFF3-102E-47B6-9B1E-01BCC82E5353" Type="Text" Created="2017-10-01 10:17:19 -0400" Modified="2017-10-01 10:35:52 -0400">
+                            <Title>Wnt pathway</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="127" UUID="0BD30A5F-9776-41FC-BE27-28B4E1EAEDD6" Type="Folder" Created="2017-10-01 10:36:27 -0400" Modified="2017-10-01 12:55:36 -0400">
+                            <Title>Epithelia and mesynchyme</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="120" UUID="652892E7-C504-4157-9AE7-880429E0DF54" Type="Folder" Created="2017-10-01 10:06:21 -0400" Modified="2017-10-01 10:30:52 -0400">
+                    <Title>Nerve</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="125" UUID="327C5BA4-2F92-4CD9-A928-F115DB46390B" Type="Folder" Created="2017-10-01 10:29:11 -0400" Modified="2017-10-01 10:29:48 -0400">
+                    <Title>Leaving Eden</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="126" UUID="494727D1-8058-45A2-A9D8-AF4DADDAD919" Type="Folder" Created="2017-10-01 10:31:01 -0400" Modified="2017-10-01 10:32:24 -0400">
+                    <Title>Parental Care</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
                 </BinderItem>
             </Children>
         </BinderItem>
@@ -502,7 +630,7 @@
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>2327,0</TextSelection>
+                                        <TextSelection>241,104</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem ID="60" UUID="D38804F0-64B5-43C6-BBA3-D1EAA0097057" Type="Text" Created="2017-03-13 09:31:16 -0400" Modified="2017-03-13 09:31:30 -0400">
@@ -536,6 +664,9 @@
                             <TextSettings>
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
+                            <CorkboardAndOutliner>
+                                <SelectedSubdocumentIDs>128</SelectedSubdocumentIDs>
+                            </CorkboardAndOutliner>
                             <Children>
                                 <BinderItem ID="41" UUID="76B4DCFE-ADBA-4729-81D2-9A837986DE05" Type="Text" Created="2017-01-31 09:25:06 -0500" Modified="2017-03-13 09:28:12 -0400">
                                     <Title>Gilbert, Baressi: Developmental Biology </Title>
@@ -555,6 +686,16 @@
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>65,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="128" UUID="46789298-3EF5-4191-8B2A-1D33ADFFC6EE" Type="Text" Created="2017-10-01 12:55:43 -0400" Modified="2017-10-01 13:15:27 -0400">
+                                    <Title>Wnt</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>577,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -816,9 +957,6 @@
                             <TextSettings>
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
-                            <CorkboardAndOutliner>
-                                <SelectedSubdocumentIDs>102</SelectedSubdocumentIDs>
-                            </CorkboardAndOutliner>
                             <Children>
                                 <BinderItem ID="50" UUID="FFBC7007-CF62-4F00-8D1D-FFEAF4DB722D" Type="Folder" Created="2017-03-13 09:18:54 -0400" Modified="2017-08-08 09:45:49 -0400">
                                     <Title>Developmental Toolkit</Title>
@@ -892,6 +1030,16 @@
                                                 <TextSelection>0,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
+                                        <BinderItem ID="130" UUID="E269A360-5730-436D-ABB0-82436A2CD62D" Type="Text" Created="2017-10-24 08:32:19 -0400" Modified="2017-10-24 08:54:01 -0400">
+                                            <Title>References of Wnt</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <NotesTextSelection>0,0</NotesTextSelection>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,111</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
                                     </Children>
                                 </BinderItem>
                                 <BinderItem ID="102" UUID="A71E6DB5-EBF2-44A5-B4CB-BA16AD088850" Type="Folder" Created="2017-08-08 09:58:57 -0400" Modified="2017-08-08 10:02:03 -0400">
@@ -904,16 +1052,38 @@
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
+                                <BinderItem ID="132" UUID="75908BFF-076B-4B31-8CBA-3DD0EF754CCE" Type="Folder" Created="2017-10-24 08:33:30 -0400" Modified="2017-10-24 08:33:45 -0400">
+                                    <Title>Gastrulation</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                    <Children>
+                                        <BinderItem ID="133" UUID="B5531560-3B9C-48B2-A384-5362C07F4700" Type="Text" Created="2017-10-24 08:33:51 -0400" Modified="2017-10-24 11:19:53 -0400">
+                                            <Title>gastrulation in different taxa</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <NotesTextSelection>0,0</NotesTextSelection>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>1818,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                    </Children>
+                                </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem ID="109" UUID="8F6A6F95-A39F-4E65-8C3D-68F1D5160127" Type="Text" Created="2017-08-14 09:02:59 -0400" Modified="2017-08-14 09:04:27 -0400">
+                        <BinderItem ID="109" UUID="8F6A6F95-A39F-4E65-8C3D-68F1D5160127" Type="Text" Created="2017-08-14 09:02:59 -0400" Modified="2017-11-02 08:31:55 -0400">
                             <Title>dont loose that thought</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>188,0</TextSelection>
+                                <TextSelection>555,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem ID="110" UUID="FBE3DB5B-3F24-4216-8582-3CC2CC3B4FBB" Type="Text" Created="2017-08-15 11:55:56 -0400" Modified="2017-08-15 14:42:37 -0400">
@@ -938,9 +1108,19 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <CorkboardAndOutliner>
-                        <SelectedSubdocumentIDs>103</SelectedSubdocumentIDs>
+                        <SelectedSubdocumentIDs>129</SelectedSubdocumentIDs>
                     </CorkboardAndOutliner>
                     <Children>
+                        <BinderItem ID="129" UUID="0FDEE4F2-8ECD-438B-94DF-B3B43AF7BDC1" Type="Text" Created="2017-10-11 15:39:42 -0400" Modified="2017-10-23 10:18:10 -0400">
+                            <Title>Outline 2017-10</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>716,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
                         <BinderItem ID="32" UUID="692236F6-917C-4AA4-86A5-07C1EA5F3776" Type="Text" Created="2016-12-22 13:21:22 -0500" Modified="2016-12-22 13:21:58 -0500">
                             <Title>outline 2016-12</Title>
                             <MetaData>
@@ -948,7 +1128,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>0,8191</TextSelection>
+                                <TextSelection>354,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem ID="87" UUID="C7621839-E33D-4049-89B1-21D8C22AC194" Type="Text" Created="2017-06-11 09:06:38 -0400" Modified="2017-06-12 19:21:02 -0400">
@@ -1027,7 +1207,7 @@
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>4111,0</TextSelection>
+                                        <TextSelection>8711,22</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem ID="28" UUID="CEE4C0D9-3DB6-421B-BB37-23EA852DD22F" Type="Text" Created="2014-10-15 11:11:22 -0400" Modified="2015-01-19 18:48:55 -0500">
@@ -1037,7 +1217,7 @@
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>2352,0</TextSelection>
+                                        <TextSelection>2593,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -1264,6 +1444,16 @@
                         <TextSelection>155,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem ID="131" UUID="07340149-719F-419A-872E-0B5216704A19" Type="Text" Created="2017-10-24 08:32:58 -0400" Modified="2017-10-24 08:33:18 -0400">
+                    <Title>Gastrulation</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
     </Binder>
@@ -1300,7 +1490,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2016-11-26 16:41:54 -0500" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2017-09-06 08:28:37 -0400"></PreviousSession>
+        <PreviousSession Words="315" Characters="1954" Date="2017-12-15 07:54:56 -0500"></PreviousSession>
     </ProjectTargets>
     <AutoCompleteList>
         <Completion Scope="-1">and</Completion>
